@@ -1,5 +1,4 @@
-# OSongStudio
-The beginning of the completely new electric piano, O Song Studio
+# O Song Studio, 이 세상에 없던 전자피아노의 시작.
 
 디미고 IoT 수행평가용으로 만들었습니다!
 
