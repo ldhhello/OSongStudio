@@ -1,7 +1,7 @@
 # OSongStudio
 The beginning of the completely new electric piano, O Song Studio
 
-디미고 IoT 수행평가용으로 만듬!
+디미고 IoT 수행평가용으로 만들었습니다!
 
 # 오송이 대체 무슨 뜻인가요?
 오송읍은 충청북도 청주시 흥덕구에 위치한 읍입니다. 읍소재지는 오송리라고 합니다.
