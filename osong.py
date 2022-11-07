@@ -13,15 +13,18 @@ print ('O Song Studio by Osong, Inc. (Version %s)' % OSONGSTUDIO_VERSION)
 # 먼가 제대로 동작하게 하려고 만든 코드인데,, 별 쓸모는 없는 것 같다
 #if platform.system() != "Darwin":
     #os.chdir('/home/pi/osongstudio')
-
-print("   \\        ")
-print("    \\       ")
-print("     \\      ")
-print("      X     ")
-print("    /   \\   ")
-print("  /      \\  ")
-print(" /        \\ ")
-print("/          \\")
+    
+print(" --┐          ") # 행신
+print("   \\         ") # 서울 용산
+print("    \\        ") # 광명
+print("    ||        ") # 천안아산
+print("    / \       ") # 공주 | 오송
+print("   /   \      ") # 익산 | 대전
+print("  /     \     ") # 정읍 | 김천구미
+print(" /       \    ") # 광주송정 | 동대구
+print("/         \   ") # 나주 | 신경주
+print("\          \  ") # 무안공항 | 울산
+print(" \          \ ") # 목포 | 부산
 
 try:
     pygame.init()
