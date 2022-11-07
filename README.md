@@ -4,10 +4,10 @@
 소개 영상 : https://youtu.be/4mTp00aT-Jc <br><br>
 사용된 부품 : 쿠팡발 4,500원짜리 스피커 x1, 1602 I2C LCD x1, RPI Camera Module x1, 미니 브레드보드 x3, 버튼 x2, 능동 부저 x2, RPI 3B
 <br>
-IDE : Visual Studio Code
-이미지 제작 : Figma
-모델링 : SketchUp
-영상 제작 : Premire Pro
+IDE : Visual Studio Code<br>
+이미지 제작 : Figma<br>
+모델링 : SketchUp<br>
+영상 제작 : Premire Pro<br>
 
 
 # 세계 최초 비접촉식 전자 피아노
