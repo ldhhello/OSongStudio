@@ -7,7 +7,7 @@
 IDE : Visual Studio Code<br>
 이미지 제작 : Figma<br>
 모델링 : SketchUp<br>
-영상 제작 : Premire Pro<br>
+영상 제작 : Premire Pro
 <br><br>
 # 세계 최초 비접촉식 전자 피아노
 접촉 없이 손가락 인식만으로도 피아노 재생이 가능하게 하여 건반 오염 걱정을 최소화할 수 있으며, 코로나 재확산 시국에 걸맞는 합려적인 감염 방지 솔루션을 제공합니다.
